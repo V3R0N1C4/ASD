@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.compilerPath": "gcc",
+    "files.associations": {
+        "*.c": "c",
+        "analyzer.h": "c"
+    }
+}
